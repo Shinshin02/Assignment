@@ -3,10 +3,10 @@
 ## 1주차 과제 (2020.05.21)
 
 * 언어
-  * 구글번역기
+  * 구글의 구글 신경망 기계 번역(Google Neural Machine Translation system,GNMT)
 * 음성
-  * 구글홈
+  * 음성인식 의무기록(EMR)
 * 이미지
-  * 딥페이크
+  * 옵팀(OPTiM)의 아미다스(AMIAS AI Medical Image Analysis Suite)
 * 자율주행
-  * 자율주행차
+  * 코넬 대학교의 감각융합 딥러닝 인프라(sensory-fusion deep learning architecture)
