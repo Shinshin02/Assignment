@@ -9,4 +9,4 @@
 * 이미지
   * 옵팀(OPTiM)의 아미다스(AMIAS AI Medical Image Analysis Suite)
 * 자율주행
-  * 코넬 대학교의 감각융합 딥러닝 인프라(sensory-fusion deep learning architecture)
+  * 주행 의도 예측 기술
